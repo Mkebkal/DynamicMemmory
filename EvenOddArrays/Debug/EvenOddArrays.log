@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\міша\source\repos\dynamicmemmrory\evenoddarrays\main.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  EvenOddArrays.vcxproj -> C:\Users\Міша\source\repos\DynamicMemmrory\Debug\EvenOddArrays.exe

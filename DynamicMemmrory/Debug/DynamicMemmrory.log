@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\міша\source\repos\dynamicmemmrory\dynamicmemmrory\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DynamicMemmrory.vcxproj -> C:\Users\Міша\source\repos\DynamicMemmrory\Debug\DynamicMemmrory.exe
